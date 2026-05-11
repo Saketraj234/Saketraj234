@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Saket Raj</h1>
 
 <p align="center">
-🚀 Frontend Developer | ☕ Java DSA Enthusiast | 🎨 UI/UX Learner | 📊 Exploring Data Analytics
+🚀 Frontend Developer | ☕ Java DSA Enthusiast | 🎨 UI/UX Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Java+DSA+Learner;Open+Source+Enthusiast;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Frontend+Developer;Java+DSA+Learner;Open+Source+Enthusiast;Building+Modern+Web+Apps" />
 </p>
 
 ---
@@ -20,20 +20,20 @@
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="[YOUR_PORTFOLIO_LINK](https://saket-portfolio-omega.vercel.app/)" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:saketbarnwal690@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/saket-raj62/)" target="_blank">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
 
-<a href="https://github.com/saketraj234">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/saketraj234" target="_blank">
+  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
 
 </p>
@@ -43,40 +43,53 @@
 # 🧠 About Me
 
 ```python
-saket = {
-    "focus": ["Frontend Development", "Java DSA", "UI/UX"],
-    "currently_learning": ["React", "Node.js", "Data Analytics"],
-    "interests": ["AI", "Open Source", "Modern UI"],
-    "looking_for": "Software Developer Internship",
-    "fun_fact": "I love building attractive websites 🚀"
-}
+class SaketRaj:
+
+    def __init__(self):
+        self.role = "Frontend Developer"
+        self.languages = ["Java", "JavaScript", "C"]
+        self.stack = ["React", "Node.js", "MongoDB"]
+        self.learning = ["Spring Boot", "PostgreSQL"]
+        self.interests = ["UI/UX", "AI", "Open Source"]
+
+    def say_hi(self):
+        return "Code. Create. Innovate. 🚀"
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌦 Weather App
+## 🚆 RailConnect — Train WiFi Add-On System
 
-- Real-time weather application using API
-- Responsive modern UI
-- Built using HTML, CSS, JavaScript
+- Full-stack MERN railway booking prototype
+- WiFi add-on integration during ticket booking
+- JWT Authentication & User Dashboard
+- Modern responsive UI/UX design
+- Dark/Light mode support
 
----
+### 🛠 Tech Stack
+`MongoDB` `Express.js` `React.js` `Node.js`
 
-## 💻 Portfolio Website
+🔗 [GitHub Repo](YOUR_RAILCONNECT_REPO_LINK)
 
-- Personal animated portfolio website
-- Modern responsive design
-- Smooth animations and transitions
+🔗 [Live Demo](YOUR_RAILCONNECT_LIVE_LINK)
 
 ---
 
 ## 🎥 Video Conferencing Web App
 
 - Real-time video/audio communication
-- Built with WebRTC + Socket.io
+- Built using WebRTC + Socket.io
 - Chat and screen sharing features
+- Secure room-based meetings
+
+### 🛠 Tech Stack
+`React` `Node.js` `Socket.io` `WebRTC`
+
+🔗 [GitHub Repo](YOUR_VIDEO_APP_REPO_LINK)
+
+🔗 [Live Demo](YOUR_VIDEO_APP_LIVE_LINK)
 
 ---
 
@@ -86,7 +99,6 @@ saket = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c" height="50"/>
 <img src="https://skillicons.dev/icons?i=java" height="50"/>
 <img src="https://skillicons.dev/icons?i=js" height="50"/>
 
@@ -162,28 +174,10 @@ saket = {
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saketraj234/saketraj234/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/saketraj234/saketraj234/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://github.com/saketraj234">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-</p>
 
 ---
 
