@@ -63,7 +63,6 @@ saket = {
 - WiFi add-on integration during ticket booking
 - JWT Authentication & User Dashboard
 - Modern responsive UI/UX design
-- Dark/Light mode support
 
 ### 🛠 Tech Stack
 `MongoDB` `Express.js` `React.js` `Node.js`
