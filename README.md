@@ -49,7 +49,6 @@ saket = {
     "currently_learning": ["React", "Node.js", "Spring Boot"],
     "interests": ["AI", "Open Source", "Modern UI"],
     "looking_for": "Software Developer Internship",
-    "motto": "Code • Create • Innovate 🚀"
 }
 ```
 
@@ -138,17 +137,20 @@ saket = {
 # 🏆 Achievements
 
 - 🥇 Frontend Developer Intern
-- 🚀 Built multiple modern web projects
-- 💡 Exploring AI & Data Analytics
+- 🏆 Participant — Internal Smart India Hackathon 2025
+- ⚡ Participant — Code Rush by byteXL
+- 🌍 Member — IAENG (International Association of Engineers)
+- 🚀 Built modern MERN stack projects
 - 🌍 Open Source Enthusiast
 
 ---
 
 # 📜 Certifications
 
-- 📘 Java Programming
-- 🌐 Frontend Development
-- 📊 Data Analytics Fundamentals
+- ☕ Java (Basic) Certification — HackerRank
+- 📘 ADCA — Advanced Diploma in Computer Application
+- 🏅 Certificate of Participation — Smart India Hackathon 2025
+- ⚡ Certificate of Participation — Code Rush by byteXL
 
 ---
 
