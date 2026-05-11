@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<a href="[YOUR_PORTFOLIO_LINK](https://saket-portfolio-omega.vercel.app/)" target="_blank">
+<a href="https://saket-portfolio-omega.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
 </a>
 
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
 
-<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/saket-raj62/)" target="_blank">
+<a href="https://www.linkedin.com/in/saket-raj62/" target="_blank">
   <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
 
@@ -43,13 +43,17 @@
 # 🧠 About Me
 
 ```python
-saket = {
-    "focus": ["Frontend Development", "Java DSA", "UI/UX"],
-    "currently_learning": ["React", "Node.js", "Data Analytics"],
-    "interests": ["AI", "Open Source", "Modern UI"],
-    "looking_for": "Software Developer Internship",
-    "fun_fact": "I love building attractive websites 🚀"
-}
+class SaketRaj:
+
+    def __init__(self):
+        self.role = "Frontend Developer"
+        self.languages = ["Java", "JavaScript"]
+        self.stack = ["React", "Node.js", "MongoDB"]
+        self.learning = ["Spring Boot", "PostgreSQL"]
+        self.interests = ["UI/UX", "AI", "Open Source"]
+
+    def motto(self):
+        return "Code. Create. Innovate. 🚀"
 ```
 
 ---
@@ -67,9 +71,7 @@ saket = {
 ### 🛠 Tech Stack
 `MongoDB` `Express.js` `React.js` `Node.js`
 
-🔗 [GitHub Repo](YOUR_RAILCONNECT_REPO_LINK)
-
-🔗 [Live Demo](YOUR_RAILCONNECT_LIVE_LINK)
+🌐 [Live Demo](YOUR_RAILCONNECT_LIVE_LINK)
 
 ---
 
@@ -83,9 +85,7 @@ saket = {
 ### 🛠 Tech Stack
 `React` `Node.js` `Socket.io` `WebRTC`
 
-🔗 [GitHub Repo](YOUR_VIDEO_APP_REPO_LINK)
-
-🔗 [Live Demo](YOUR_VIDEO_APP_LIVE_LINK)
+🌐 [Live Demo](YOUR_VIDEO_APP_LIVE_LINK)
 
 ---
 
@@ -170,10 +170,8 @@ saket = {
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saketraj234/saketraj234/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/saketraj234/saketraj234/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
-
----
 
 ---
 
