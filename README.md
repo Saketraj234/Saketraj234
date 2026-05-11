@@ -5,27 +5,37 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Frontend+Developer;Java+DSA+Learner;Open+Source+Enthusiast;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Java+DSA+Learner;Open+Source+Enthusiast;Building+Modern+Web+Apps" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=saketraj234&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+---
 
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<h2 align="center">✨ Let's Connect ✨</h2>
 
-  <a href="https://github.com/saketraj234">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/saketraj234">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -74,34 +84,40 @@ saket = {
 
 ## 👨‍💻 Languages
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+
 </p>
 
 ---
 
 ## 🌐 Frontend
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+
 </p>
 
 ---
 
 ## ⚙ Backend & Tools
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<img src="https://skillicons.dev/icons?i=express" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+
 </p>
 
 ---
@@ -146,15 +162,7 @@ saket = {
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/saketraj234/saketraj234/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saketraj234&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://raw.githubusercontent.com/saketraj234/saketraj234/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -164,21 +172,25 @@ saket = {
 <p align="center">
 
 <a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://github.com/saketraj234">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 </p>
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+</p>
+
 <h3 align="center">
-✨ “Code. Create. Innovate.” ✨
+✨ Code • Create • Innovate ✨
 </h3>
