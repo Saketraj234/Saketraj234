@@ -43,17 +43,14 @@
 # 🧠 About Me
 
 ```python
-class SaketRaj:
-
-    def __init__(self):
-        self.role = "Frontend Developer"
-        self.languages = ["Java", "JavaScript"]
-        self.stack = ["React", "Node.js", "MongoDB"]
-        self.learning = ["Spring Boot", "PostgreSQL"]
-        self.interests = ["UI/UX", "AI", "Open Source"]
-
-    def motto(self):
-        return "Code. Create. Innovate. 🚀"
+saket = {
+    "role": "Frontend Developer",
+    "focus": ["MERN Stack", "Java DSA", "UI/UX"],
+    "currently_learning": ["React", "Node.js", "Spring Boot"],
+    "interests": ["AI", "Open Source", "Modern UI"],
+    "looking_for": "Software Developer Internship",
+    "motto": "Code • Create • Innovate 🚀"
+}
 ```
 
 ---
