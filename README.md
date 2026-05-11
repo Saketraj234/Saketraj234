@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Frontend+Developer;Java+DSA+Learner;Open+Source+Enthusiast;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Java+DSA+Enthusiast;MERN+Stack+Learner;Building+Modern+Web+Apps" />
 </p>
 
 ---
@@ -158,6 +158,8 @@ saket = {
 
 <p align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saketraj234&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saketraj234&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -175,7 +177,7 @@ saket = {
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saketraj234/saketraj234/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/saketraj234/saketraj234/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
