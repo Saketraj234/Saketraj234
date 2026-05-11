@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Saket Raj</h1>
 
 <p align="center">
-🚀 Frontend Developer | ☕ Java DSA Enthusiast | 🎨 UI/UX Enthusiast
+🚀 Passionate Software Developer | ☕ Java DSA Enthusiast | 🌍 Exploring Open Source
 </p>
 
 <p align="center">
@@ -52,6 +52,15 @@ saket = {
     "motto": "Code • Create • Innovate 🚀"
 }
 ```
+
+- 🎓 Final-year B.Tech CSE Student
+- 💻 Frontend Developer & Java DSA Enthusiast
+- 🏆 Participant — Internal Smart India Hackathon 2025
+- ⚡ Participant — Code Rush by byteXL
+- 🌍 Member — IAENG (International Association of Engineers)
+- ☕ Java (Basic) Certified — HackerRank
+- 📘 ADCA — Advanced Diploma in Computer Application
+- 🚀 Passionate about building modern web applications
 
 ---
 
