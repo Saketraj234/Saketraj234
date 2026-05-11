@@ -68,7 +68,7 @@ saket = {
 ### 🛠 Tech Stack
 `MongoDB` `Express.js` `React.js` `Node.js`
 
-🌐 [Live Demo](YOUR_RAILCONNECT_LIVE_LINK)
+🌐 [Live Demo](https://rail-connect-eight.vercel.app/)
 
 ---
 
@@ -82,7 +82,7 @@ saket = {
 ### 🛠 Tech Stack
 `React` `Node.js` `Socket.io` `WebRTC`
 
-🌐 [Live Demo](YOUR_VIDEO_APP_LIVE_LINK)
+🌐 [Live Demo](https://team-meet-liart.vercel.app/)
 
 ---
 
