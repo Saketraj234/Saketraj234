@@ -162,7 +162,7 @@ saket = {
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saketraj234/saketraj234/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/saketraj234/saketraj234/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
