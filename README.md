@@ -87,7 +87,7 @@ saket = {
 - Secure room-based meetings
 
 ### 🛠 Tech Stack
-`React` `Node.js` `Socket.io` `WebRTC`
+`MERN Stack` `Socket.io` `WebRTC`
 
 🌐 [Live Demo](https://team-meet-liart.vercel.app/)
 
