@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Saket Raj</h1>
 
 <p align="center">
-🚀 Passionate Software Developer | ☕ Java DSA Enthusiast | 🌍 Exploring Open Source
+  🚀 Software Developer | ☕ Java DSA Enthusiast | 🌍 Building Modern Web Apps
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Java+DSA+Enthusiast;MERN+Stack+Learner;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Saket+Raj;MERN+Stack+Developer;Open+Source+Enthusiast;Java+DSA+Learner;Building+Scalable+Web+Apps"/>
 </p>
 
 ---
@@ -44,50 +44,53 @@
 
 ```python
 saket = {
-    "role": "Frontend Developer",
-    "focus": ["MERN Stack", "Java DSA", "UI/UX"],
-    "currently_learning": ["React", "Node.js", "Spring Boot"],
-    "interests": ["AI", "Open Source", "Modern UI"],
-    "looking_for": "Software Developer Internship",
+   "role": "MERN Stack Developer",
+   "focus": ["React", "Node.js", "Java DSA"],
+   "currently_learning": ["Spring Boot", "System Design"],
+   "interests": ["AI", "Open Source", "Modern UI"],
+   "looking_for": "Software Developer Internship"
 }
 ```
 
-- 🎓 Final-year B.Tech CSE Student
-- 💻 Frontend Developer & Java DSA Enthusiast
+- 🎓 Final-Year B.Tech CSE Student
+- 💻 Software Developer & Java DSA Enthusiast
 - 🏆 Participant — Internal Smart India Hackathon 2025
 - ⚡ Participant — Code Rush by byteXL
 - 🌍 Member — IAENG (International Association of Engineers)
-- ☕ Java (Basic) Certified — HackerRank
+- ☕ HackerRank Certified — Java (Basic)
 - 📘 ADCA — Advanced Diploma in Computer Application
-- 🚀 Passionate about building modern web applications
+- 🚀 Passionate About Building Modern Web Applications
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚆 RailConnect — Train WiFi Add-On System
+## 🎓 University Resource & Collaboration System
 
-- Full-stack MERN railway booking prototype
-- WiFi add-on integration during ticket booking
-- JWT Authentication & User Dashboard
-- Modern responsive UI/UX design
+- Developed a full-stack student collaboration and resource management platform
+- Integrated AI Mentor using Groq API for smart student assistance
+- Implemented real-time chat and collaboration features using Socket.io
+- Added Emergency Contacts and Upcoming Exam Planner features
+- Designed admin dashboard for managing resources, events, and updates
+- Built responsive and modern UI/UX for seamless user experience
 
 ### 🛠 Tech Stack
-`MongoDB` `Express.js` `React.js` `Node.js`
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Groq API`
 
-🌐 [Live Demo](https://rail-connect-eight.vercel.app/)
+🌐 [Live Demo](https://mmu-study-resources.vercel.app/)
 
 ---
 
-## 🎥 Video Conferencing Web App
+## 🎥 Video Conferencing Platform
 
-- Real-time video/audio communication
-- Built using WebRTC + Socket.io
-- Chat and screen sharing features
-- Secure room-based meetings
+- Engineered a real-time video conferencing platform for seamless communication
+- Implemented video calling, chat, screen sharing, and collaborative whiteboard features
+- Integrated secure JWT Authentication and bcrypt-based password encryption
+- Enabled real-time interactions using WebRTC and Socket.io
+- Designed responsive and user-friendly interface for smooth meeting experience
 
-### 🛠 Tech Stack
-`MERN Stack` `Socket.io` `WebRTC`
+#### 🛠 Tech Stack
+`React.js` `Node.js` `Express.js` `MongoDB` `WebRTC` `Socket.io`
 
 🌐 [Live Demo](https://team-meet-liart.vercel.app/)
 
