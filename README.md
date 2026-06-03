@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Open+Source+Enthusiast;Java+DSA+Learner;Problem+Solver;Building+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Open+Source+Contributor;Backend+Learning;Building+Scalable+Systems;Modern+UI%2FUX+Design" />
 </p>
 
 ---
