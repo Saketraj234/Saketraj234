@@ -160,7 +160,7 @@ saket = {
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=saketraj234&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=saketraj234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
