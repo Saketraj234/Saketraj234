@@ -160,10 +160,7 @@ saket = {
 # 📊 GitHub Stats
 
 <p align="center">
-
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saketraj234&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://streak-stats.demolab.com?user=saketraj234&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
