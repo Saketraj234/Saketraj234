@@ -92,7 +92,7 @@ saket = {
 #### 🛠 Tech Stack
 `React.js` `Node.js` `Express.js` `MongoDB` `WebRTC` `Socket.io`
 
-🌐 [Live Demo]((https://teammeetconnect.vercel.app/)
+🌐 [Live Demo](https://teammeetconnect.vercel.app/)
 
 ---
 
