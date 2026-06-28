@@ -77,7 +77,7 @@ saket = {
 ### 🛠 Tech Stack
 `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Groq API`
 
-🌐 [Live Demo](https://mmu-study-resources.vercel.app/)
+🌐 [Live Demo](https://mmuvault.vercel.app/)
 
 ---
 
@@ -92,7 +92,7 @@ saket = {
 #### 🛠 Tech Stack
 `React.js` `Node.js` `Express.js` `MongoDB` `WebRTC` `Socket.io`
 
-🌐 [Live Demo](https://team-meet-liart.vercel.app/)
+🌐 [Live Demo]((https://teammeetconnect.vercel.app/)
 
 ---
 
