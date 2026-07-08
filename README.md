@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<a href="https://saket-portfolio-omega.vercel.app/" target="_blank">
+<a href="https://saketraj.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
 </a>
 
@@ -67,14 +67,16 @@ saket = {
 
 ## 🎓 University Resource & Collaboration System
 
-- Developed a full-stack student collaboration and resource management platform
-- Integrated AI Mentor using Groq API for smart student assistance
-- Implemented real-time chat and collaboration features using Socket.io
-- Added Emergency Contacts and Upcoming Exam Planner features
-- Designed admin dashboard for managing resources, events, and updates
-- Built responsive and modern UI/UX for seamless user experience
-
-### 🛠 Tech Stack
+- Developed a full-stack student collaboration and resource management platform.
+- Integrated an AI Mentor using the Groq API for intelligent student assistance.
+- Built Premium Notes, PYQs Vault, and Exam Pilot for academic resources and exam planning.
+- Developed an Assessment Hub where admins create tests and students register, attempt exams, and track their performance.
+- Implemented Code Hub with coding roadmaps, playlists, DSA sheets, and placement preparation resources.
+- Added real-time chat, gallery, emergency contacts, campus events, download history, and a personal To-Do List.
+- Designed a secure admin dashboard to manage resources, assessments, question banks, events, gallery, and platform updates.
+- Built a responsive and modern UI/UX to deliver a seamless user experience.
+  
+#### 🛠 Tech Stack
 `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Groq API`
 
 🌐 [Live Demo](https://mmuvault.vercel.app/)
