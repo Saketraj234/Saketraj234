@@ -170,7 +170,7 @@ saket = {
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saketraj234&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saketraj234&theme=tokyo-night"/>
 </p>
 
 ---
