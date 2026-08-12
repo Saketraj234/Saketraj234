@@ -77,7 +77,7 @@ saket = {
 - Built a responsive and modern UI/UX to deliver a seamless user experience.
   
 #### 🛠 Tech Stack
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Groq API`
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Groq API` `Firebase Authentication` `Cloudinary`
 
 🌐 [Live Demo](https://mmuvault.vercel.app/)
 
